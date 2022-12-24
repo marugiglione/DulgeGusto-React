@@ -1,0 +1,23 @@
+.navContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 80em;
+
+}
+
+.navPestanas {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.pestanas {
+    padding-left: 10%;
+    padding-right: 10%;
+}
